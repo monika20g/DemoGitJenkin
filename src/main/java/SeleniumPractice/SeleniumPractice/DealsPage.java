@@ -1,10 +1,12 @@
 package SeleniumPractice.SeleniumPractice;
 
-public class DealsPage {
+import org.openqa.selenium.WebDriver;
 
+public class DealsPage {
+WebDriver driver;
 	public DealsPage() {
 		super();
-		// TODO Auto-generated constructor stub
+	//	driver;
 	}
 
 }
